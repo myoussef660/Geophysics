@@ -3,5 +3,5 @@ It is well known that greenhouse gases are important for maintaining Earth’s h
 
 ### Results 
 ## No Water Vapor - 250m 
-![picture alt](https://github.com/myoussef660/Geophysics/blob/master/beta0_250m.pdf "no water vapor with 250m")
+![Alt Text](https://github.com/myoussef660/Geophysics/blob/master/Graphs/Earth's_energy_budget.pdf)
   
