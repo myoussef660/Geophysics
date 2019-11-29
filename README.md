@@ -5,3 +5,4 @@ It is well known that greenhouse gases are important for maintaining Earth’s h
 
 ## Results
  ![picture alt](https://github.com/myoussef660/Geophysics/blob/master/beta0_50m_6parameters.PNG "beta0_50m_6params")
+![picture alt](https://github.com/myoussef660/Geophysics/blob/master/noGHG_250_6parameters.png "noGHG_250m_6params")
